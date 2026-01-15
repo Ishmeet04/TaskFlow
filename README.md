@@ -4,7 +4,7 @@
 ![Frontend](https://img.shields.io/badge/frontend-React-blue)
 ![Backend](https://img.shields.io/badge/backend-Node.js-green)
 ![Backend](https://img.shields.io/badge/backend-Express.js-pink)
-![Auth](https://img.shields.io/badge/auth-Clerk-purple)
+![Auth](https://img.shields.io/badge/auth-JWT-purple)
 
 
 TaskFlow is a full-stack task management system designed to help users organize, prioritize, and track their work efficiently. It combines a modern React frontend with a secure Node.js backend and MongoDB database. The system supports user authentication, real-time task tracking, priority-based ranking, and analytics for productivity insights.
